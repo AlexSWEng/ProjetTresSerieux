@@ -1,7 +1,9 @@
 package test;
 
 public class Test {
+
 public static void main(String[]a){
-    System.out.println( "méchant !" );
-}
+    System.out.println( "mï¿½chant !" );
+        System.out.println( "yo" );
+    }
 }

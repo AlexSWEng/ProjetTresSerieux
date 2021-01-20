@@ -1,5 +1,7 @@
 package test;
 
 public class Test {
-public static voi main
+public static void main(String[]a){
+    System.out.println( "méchant !" );
+}
 }
